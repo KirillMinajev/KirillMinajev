@@ -78,3 +78,19 @@ body{
     line-height: 56px;
     font-weight: 700;
 }
+
+.Section5{
+    background-color: #2eb875; 
+    margin-top: 80px;
+}
+
+.sec5a{
+    text-decoration: underline;
+}
+
+.round{
+    background-color: #d9fde5;
+    padding: 12px;
+    border-radius: 40px;
+}
+
