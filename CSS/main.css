@@ -94,4 +94,12 @@ body{
     border-radius: 40px;
 }
 
+.col-md-2 a{
+    color: black;
+    text-decoration: none;
+}
 
+.col-md-2 a:hover{
+    color: black;
+    text-decoration: none;
+}
